@@ -1,1 +1,3 @@
 git init für den Start
+git add <file>
+git commit -m "your commit message"
